@@ -2,6 +2,11 @@
 
 O projeto em Python apresentado é um interpretador simples para computar expressões matemáticas, que possue um analisador léxico e sintático
 
+##Requisitos
+
+*Tenha o Python devidamente instalado e configurado em sua máquina
+*Também é necessário ter uma IDE instalada para ter acesso ao código, como Pycharm ou Vs Code.
+
 ## Arquivo principal
 
 O arquivo principal é: main.py
